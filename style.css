@@ -154,7 +154,7 @@ img[alt="logo"] {
     object-position: center bottom;
 }
 .img-4 {
-    object-position: center center;
+    object-position: center 75%;
 }
 
 .heading-3 {
