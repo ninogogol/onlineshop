@@ -393,6 +393,9 @@ span.black-white {
 
 /* Styles for TABLET */
 @media only screen and (min-width: 768px) {
+    .nav-link.btn {
+        max-width: 300px;
+    }
     .heading-1 {
         font-size: 5rem;
         width: 70%;
