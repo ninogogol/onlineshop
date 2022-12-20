@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository]()
+- Solution URL: [GitHub Repository](https://github.com/ninogogol/onlineshop)
 - Live Site URL: [GitHub Page](https://ninogogol.github.io/onlineshop/)
 
 ### My process
