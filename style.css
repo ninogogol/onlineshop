@@ -270,7 +270,6 @@ footer div i {
 
 footer div i:hover {
     color: #FFFFFF;
-    font-size: 35px;
     cursor: pointer;
     transition: 0.3s;
 }
